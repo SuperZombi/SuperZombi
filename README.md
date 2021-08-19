@@ -6,6 +6,7 @@
 
 [<img align="left" alt="YouTube" height="50px" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" />][instagram]
+[<img align="left" alt="Vkontakte" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vkontakte]
 
 <br/>
 <br/>
@@ -20,3 +21,4 @@
 
 [youtube]: https://www.youtube.com/c/SuperZombi
 [instagram]: https://www.instagram.com/super_zombi_
+[vkontakte]: https://vk.com/super_zombi
