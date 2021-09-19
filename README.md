@@ -17,6 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
 
 
 [youtube]: https://www.youtube.com/c/SuperZombi
