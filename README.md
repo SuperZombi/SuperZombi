@@ -15,7 +15,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-downloader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
