@@ -1,6 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperZombi&show_icons=true&theme=dark&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuperZombi&show_icons=true&theme=dark&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZombi&theme=dark&border_radius=15)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuperZombi&theme=dark&border_radius=15)
 
 <hr>
 
@@ -14,14 +15,14 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
 
 [youtube]: https://www.youtube.com/c/SuperZombi
 [instagram]: https://www.instagram.com/super_zombi_yt
