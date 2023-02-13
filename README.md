@@ -24,6 +24,14 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
 
+<hr>
+
+### My Websites:
+
+[![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://zombi-music-server.superzombi.repl.co/)
+[![Tanks Filter](https://shields.io/badge/Tanks_Filter-grey)](https://tanks-filter.superzombi.repl.co/)
+
+
 [youtube]: https://www.youtube.com/c/SuperZombi
 [instagram]: https://www.instagram.com/super_zombi_yt
 [vkontakte]: https://vk.com/super_zombi
