@@ -30,10 +30,10 @@
 
 ### My Websites:
 
-[![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://zombi-music-server.superzombi.repl.co/)
+[![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://music.superzombi.repl.co/)
 [![Tanks Filter](https://shields.io/badge/Tanks_Filter-grey)](https://tanks-filter.superzombi.repl.co/)
 
 
 [youtube]: https://www.youtube.com/c/SuperZombi
-[instagram]: https://www.instagram.com/super_zombi_yt
+[instagram]: https://www.instagram.com/super_zombi_yt/
 [vkontakte]: https://vk.com/super_zombi
