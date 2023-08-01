@@ -34,20 +34,20 @@
 
 <hr>
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
+[![Youtube](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
+[![HDrezka](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
+[![Google-Meet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
+[![Soundpad](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin-api&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin-api)
+[![9anime](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=9anime-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/9anime-downloader)
+[![GICutscenes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
+[![Resin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin-api&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin-api)
+[![m3u8](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=.m3u8&theme=dark&border_radius=15)](https://github.com/SuperZombi/.m3u8)
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
-
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=.m3u8&theme=dark&border_radius=15)](https://github.com/SuperZombi/.m3u8)
+[![Telegram_Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
+[![Pypi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
+[![Notification](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
+[![SwipeMenu](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
 
 <hr>
 
