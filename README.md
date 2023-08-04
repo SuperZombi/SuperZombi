@@ -42,7 +42,7 @@
 [![9anime](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=9anime-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/9anime-downloader)
 [![GICutscenes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Resin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin-api&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin-api)
-[![m3u8](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=.m3u8&theme=dark&border_radius=15)](https://github.com/SuperZombi/.m3u8)
+[![m3u8](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/m3u8-downloader)
 
 [![Telegram_Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
 [![Pypi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
