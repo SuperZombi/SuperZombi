@@ -39,7 +39,6 @@
 [![Google-Meet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
 [![Soundpad](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
 
-[![9anime](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=9anime-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/9anime-downloader)
 [![GICutscenes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Resin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin-api&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin-api)
 [![m3u8](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/m3u8-downloader)
