@@ -34,6 +34,16 @@
 
 <hr>
 
+### My Websites:
+
+[![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://music.superzombi.repl.co/)
+[![Super Downloader](https://shields.io/badge/Super_Downloader_bot-blue)](https://super-downloader.superzombi.repl.co/)
+
+[![Tanks Filter](https://shields.io/badge/Tanks_Filter-grey)](https://tanks-filter.superzombi.repl.co/)
+[![Perspective Transformer](https://shields.io/badge/Document_Transformer-lightblue)](https://perspective-transformer.superzombi.repl.co/)
+
+<hr>
+
 [![Youtube](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
 [![HDrezka](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
 [![Google-Meet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
@@ -45,19 +55,9 @@
 [![DBNavigator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&theme=dark&border_radius=15)](https://github.com/SuperZombi/DBNavigator)
 
 [![Telegram_Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
-[![Pypi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
+[![Pypi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
 [![Notification](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
 [![SwipeMenu](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
-
-<hr>
-
-### My Websites:
-
-[![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://music.superzombi.repl.co/)
-[![Super Downloader](https://shields.io/badge/Super_Downloader_bot-blue)](https://super-downloader.superzombi.repl.co/)
-
-[![Tanks Filter](https://shields.io/badge/Tanks_Filter-grey)](https://tanks-filter.superzombi.repl.co/)
-[![Perspective Transformer](https://shields.io/badge/Document_Transformer-lightblue)](https://perspective-transformer.superzombi.repl.co/)
 
 
 [youtube]: https://www.youtube.com/c/SuperZombi
