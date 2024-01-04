@@ -37,10 +37,8 @@
 ### My Websites:
 
 [![Zombi Music](https://shields.io/badge/Zombi_Music-darkgreen)](https://music.superzombi.repl.co/)
-[![Super Downloader](https://shields.io/badge/Super_Downloader_bot-blue)](https://super-downloader.superzombi.repl.co/)
-
+[![Super Downloader](https://shields.io/badge/Super_Downloader-blue)](https://super-downloader.superzombi.repl.co/)
 [![Tanks Filter](https://shields.io/badge/Tanks_Filter-grey)](https://tanks-filter.superzombi.repl.co/)
-[![Perspective Transformer](https://shields.io/badge/Document_Transformer-lightblue)](https://perspective-transformer.superzombi.repl.co/)
 
 <hr>
 
