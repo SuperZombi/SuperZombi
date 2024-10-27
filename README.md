@@ -37,17 +37,19 @@
 [![Youtube](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
 [![HDrezka](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/HDrezka-Helper)
 [![Google-Meet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
-[![Soundpad](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
+[![Telegram Downloader](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=telegram-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/telegram-downloader)
 
-[![Melody Monitor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&theme=dark&border_radius=15)](https://github.com/SuperZombi/melody-monitor)
-[![DBNavigator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&theme=dark&border_radius=15)](https://github.com/SuperZombi/DBNavigator)
 [![GICutscenes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Resin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin)
+[![Melody Monitor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&theme=dark&border_radius=15)](https://github.com/SuperZombi/melody-monitor)
+[![Soundpad](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
 
-[![Telegram_Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
 [![Pypi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=pypi-uploader&theme=dark&border_radius=15)](https://github.com/SuperZombi/Pypi-uploader)
+[![Telegram_Cloud](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&theme=dark&border_radius=15)](https://github.com/SuperZombi/Telegram_Cloud)
+
 [![Notification](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
 [![SwipeMenu](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
+[![DBNavigator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&theme=dark&border_radius=15)](https://github.com/SuperZombi/DBNavigator)
 
 [youtube]: https://www.youtube.com/c/SuperZombi
 [instagram]: https://www.instagram.com/super_zombi_yt/
