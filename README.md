@@ -39,13 +39,15 @@
 [![Google-Meet](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&theme=dark&border_radius=15)](https://github.com/SuperZombi/Google-Meet-Helper)
 [![Telegram Downloader](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=telegram-downloader&theme=dark&border_radius=15)](https://github.com/SuperZombi/telegram-downloader)
 
-[![DBNavigator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&theme=dark&border_radius=15)](https://github.com/SuperZombi/DBNavigator)
 [![MyTube](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=MyTube&theme=dark&border_radius=15)](https://github.com/SuperZombi/MyTube)
+[![MyTube GUI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=MyTube-GUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/MyTube-GUI)
 
 [![GICutscenes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&theme=dark&border_radius=15)](https://github.com/SuperZombi/GICutscenesUI)
 [![Resin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin&theme=dark&border_radius=15)](https://github.com/SuperZombi/genshin-resin)
 [![Melody Monitor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&theme=dark&border_radius=15)](https://github.com/SuperZombi/melody-monitor)
 [![Soundpad](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&theme=dark&border_radius=15)](https://github.com/SuperZombi/soundpad-online)
+
+[![DBNavigator](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&theme=dark&border_radius=15)](https://github.com/SuperZombi/DBNavigator)
 
 [![Notification](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/Notification_JS)
 [![SwipeMenu](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&theme=dark&border_radius=15)](https://github.com/SuperZombi/SwipeMenu_JS)
