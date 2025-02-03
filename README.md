@@ -2,38 +2,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuperZombi&theme=dark&border_radius=15)
 
-<hr>
-
-[<img align="left" alt="YouTube" height="50px" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
-[<img align="left" alt="Instagram" height="50px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" />][instagram]
-[<img align="left" alt="Vkontakte" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vkontakte]
-
-<br/>
-<br/>
-<hr>
-
-### ☕ Buy me coffee
-<table>
-  <tr>
-    <td>
-       <img width="18px" src="https://www.google.com/s2/favicons?domain=https://donatello.to&sz=256">
-    </td>
-    <td>
-      <a href="https://donatello.to/super_zombi">Donatello</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img width="18px" src="https://www.google.com/s2/favicons?domain=https://www.donationalerts.com&sz=256">
-    </td>
-    <td>
-      <a href="https://www.donationalerts.com/r/super_zombi">Donation Alerts</a>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
 ## <img width="28px" align="top" src="https://developer.chrome.com/static/docs/extensions/images/home-hero.svg">Extensions
 
 [![Youtube](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&theme=dark&border_radius=15)](https://github.com/SuperZombi/Picture-in-Picture-for-Youtube)
@@ -76,7 +44,6 @@
 [![Chess RPG](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&theme=dark&border_radius=15)](https://github.com/SuperZombi/chess-rpg)
 [![Monty Hall](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&theme=dark&border_radius=15)](https://github.com/SuperZombi/monty_hall)
 
+<hr>
 
-[youtube]: https://www.youtube.com/c/SuperZombi
-[instagram]: https://www.instagram.com/super_zombi_yt/
-[vkontakte]: https://vk.com/super_zombi
+### ☕ [Buy me coffee](https://donatello.to/super_zombi)
