@@ -8,6 +8,9 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuperZombi&border_radius=15" alt="Top Langs" loading="lazy"/>
 </picture>
 
+### ☕ [Buy me coffee](https://donatello.to/super_zombi)
+
+<hr>
 
 <details open>
 	<summary>
@@ -179,7 +182,3 @@
 	</picture>
 </a>
 </details>
-
-<hr>
-
-### ☕ [Buy me coffee](https://donatello.to/super_zombi)
