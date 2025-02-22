@@ -9,7 +9,7 @@
 </picture>
 
 
-<details>
+<details open>
 	<summary>
 		<h2><img width="28px" align="top" src="https://developer.chrome.com/static/docs/extensions/images/home-hero.svg"> Extensions</h2>
 	</summary>
@@ -41,7 +41,7 @@
 </details>
 
 
-<details>
+<details open>
 	<summary>
 		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/814/814120.png"> Applications</h2>
 	</summary>
@@ -97,7 +97,7 @@
 </details>
 
 
-<details>
+<details open>
 	<summary>
 		<h2><img width="28px" align="top" src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png"> Python Libraries</h2>
 	</summary>
@@ -135,7 +135,7 @@
 </details>
 
 
-<details>
+<details open>
 	<summary>
 		<h2><img width="26px" align="top" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript Libraries</h2>
 	</summary>
@@ -155,7 +155,7 @@
 </details>
 
 
-<details>
+<details open>
 	<summary>
 		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games</h2>
 	</summary>
