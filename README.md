@@ -9,7 +9,10 @@
 </picture>
 
 
-## <img width="28px" align="top" src="https://developer.chrome.com/static/docs/extensions/images/home-hero.svg">Extensions
+<details>
+	<summary>
+		<h2><img width="28px" align="top" src="https://developer.chrome.com/static/docs/extensions/images/home-hero.svg"> Extensions</h2>
+	</summary>
 
 <a href="https://github.com/SuperZombi/Picture-in-Picture-for-Youtube">
 	<picture>
@@ -35,9 +38,13 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin&border_radius=15" alt="Genshin" loading="lazy"/>
 	</picture>
 </a>
+</details>
 
 
-## <img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/814/814120.png"> Applications
+<details>
+	<summary>
+		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/814/814120.png"> Applications</h2>
+	</summary>
 
 <a href="https://github.com/SuperZombi/MyTube-GUI">
 	<picture>
@@ -87,9 +94,13 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&border_radius=15" alt="M3U8" loading="lazy"/>
 	</picture>
 </a>
+</details>
 
 
-## <img width="28px" align="top" src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png"> Python Libraries
+<details>
+	<summary>
+		<h2><img width="28px" align="top" src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png"> Python Libraries</h2>
+	</summary>
 
 <a href="https://github.com/SuperZombi/MyTube">
 	<picture>
@@ -121,9 +132,13 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=PyEasyDownloader&border_radius=15" alt="Easy Downloader" loading="lazy"/>
 	</picture>
 </a>
+</details>
 
 
-## <img width="26px" align="top" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript Libraries
+<details>
+	<summary>
+		<h2><img width="26px" align="top" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript Libraries</h2>
+	</summary>
 
 <a href="https://github.com/SuperZombi/Notification_JS">
 	<picture>
@@ -137,9 +152,13 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&border_radius=15" alt="SwipeMenu" loading="lazy"/>
 	</picture>
 </a>
+</details>
 
 
-## <img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games
+<details>
+	<summary>
+		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games</h2>
+	</summary>
 
 <a href="https://github.com/SuperZombi/visual_novel">
 	<picture>
@@ -159,6 +178,7 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
 	</picture>
 </a>
+</details>
 
 <hr>
 
