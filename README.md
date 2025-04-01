@@ -102,6 +102,38 @@
 
 <details open>
 	<summary>
+		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games</h2>
+	</summary>
+
+<a href="https://github.com/SuperZombi/wot-modpack">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=wot-modpack&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=wot-modpack&border_radius=15" alt="WoT Modpack" loading="lazy"/>
+	</picture>
+</a>
+<a href="https://github.com/SuperZombi/visual_novel">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15" alt="Visual Novel" loading="lazy"/>
+	</picture>
+</a>
+<a href="https://github.com/SuperZombi/chess-rpg">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15" alt="Chess RPG" loading="lazy"/>
+	</picture>
+</a>
+<a href="https://github.com/SuperZombi/monty_hall">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
+	</picture>
+</a>
+</details>
+
+
+<details open>
+	<summary>
 		<h2><img width="28px" align="top" src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png"> Python Libraries</h2>
 	</summary>
 
@@ -153,32 +185,6 @@
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&border_radius=15&theme=dark"/>
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&border_radius=15" alt="SwipeMenu" loading="lazy"/>
-	</picture>
-</a>
-</details>
-
-
-<details open>
-	<summary>
-		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games</h2>
-	</summary>
-
-<a href="https://github.com/SuperZombi/visual_novel">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15" alt="Visual Novel" loading="lazy"/>
-	</picture>
-</a>
-<a href="https://github.com/SuperZombi/chess-rpg">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15" alt="Chess RPG" loading="lazy"/>
-	</picture>
-</a>
-<a href="https://github.com/SuperZombi/monty_hall">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
 	</picture>
 </a>
 </details>
