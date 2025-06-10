@@ -8,6 +8,8 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuperZombi&border_radius=15" alt="Top Langs" loading="lazy"/>
 </picture>
 
+### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
+
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
 <hr>
