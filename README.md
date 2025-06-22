@@ -49,6 +49,12 @@
 		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&border_radius=15" alt="Google Meet" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/Instagram-Helper">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15" alt="Instagram-Helper" loading="lazy"/>
+	</picture>
+</a>
 </details>
 
 
