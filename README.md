@@ -10,6 +10,11 @@
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg?)](https://user-badge.committers.top/ukraine/SuperZombi)
 
+### 📋Resume
+✨ [Pretty resume](https://superzombi.github.io/resume/?true)
+
+💼 [Formal resume](https://superzombi.github.io/resume/v2/)
+
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
 <hr>
