@@ -116,6 +116,12 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&border_radius=15" alt="M3U8" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/roomix">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=roomix&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=roomix&border_radius=15" alt="Roomix" loading="lazy"/>
+	</picture>
+</a>
 </details>
 
 
