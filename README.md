@@ -8,7 +8,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZombi&border_radius=15" alt="Top Langs" loading="lazy"/>
 </picture>
 
-### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg?)](https://user-badge.committers.top/ukraine/SuperZombi)
+### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
 
 ### 📋Resume
 ✨ [Pretty resume](https://superzombi.github.io/resume/?true)
@@ -57,7 +57,7 @@
 <a href="https://github.com/SuperZombi/Instagram-Helper">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15" alt="Instagram-Helper" loading="lazy"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15" alt="Instagram Helper" loading="lazy"/>
 	</picture>
 </a>
 </details>
@@ -136,16 +136,22 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15" alt="Visual Novel" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/monty_hall">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
+	</picture>
+</a>
 <a href="https://github.com/SuperZombi/chess-rpg">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15&theme=dark"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15" alt="Chess RPG" loading="lazy"/>
 	</picture>
 </a>
-<a href="https://github.com/SuperZombi/monty_hall">
+<a href="https://github.com/SuperZombi/card-game">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=card-game&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=card-game&border_radius=15" alt="Card game" loading="lazy"/>
 	</picture>
 </a>
 </details>
