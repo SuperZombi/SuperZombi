@@ -88,6 +88,12 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&border_radius=15" alt="Melody Monitor" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/Discord-Music-Status">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Music-Status&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Music-Status&border_radius=15" alt="Discord Music Status" loading="lazy"/>
+	</picture>
+</a>
 <a href="https://github.com/SuperZombi/soundpad-online">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&border_radius=15&theme=dark"/>
@@ -100,16 +106,16 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=pypi-uploader&border_radius=15" alt="Pypi" loading="lazy"/>
 	</picture>
 </a>
-<a href="https://github.com/SuperZombi/Telegram_Cloud">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15" alt="Telegram Cloud" loading="lazy"/>
-	</picture>
-</a>
 <a href="https://github.com/SuperZombi/fast-server">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=fast-server&border_radius=15&theme=dark"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=fast-server&border_radius=15" alt="Fast Server" loading="lazy"/>
+	</picture>
+</a>
+<a href="https://github.com/SuperZombi/Telegram_Cloud">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15" alt="Telegram Cloud" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/m3u8-downloader">
