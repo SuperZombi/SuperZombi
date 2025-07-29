@@ -88,6 +88,12 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&border_radius=15" alt="Melody Monitor" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/Discord-Presence">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Presence&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Presence&border_radius=15" alt="Discord Presence" loading="lazy"/>
+	</picture>
+</a>
 <a href="https://github.com/SuperZombi/Discord-Music-Status">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Music-Status&border_radius=15&theme=dark"/>
