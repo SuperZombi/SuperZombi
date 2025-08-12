@@ -150,6 +150,12 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=wot-modpack&border_radius=15" alt="WoT Modpack" loading="lazy"/>
 	</picture>
 </a>
+<a href="https://github.com/SuperZombi/dust2">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=dust2&border_radius=15&theme=dark"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=dust2&border_radius=15" alt="Dust 2" loading="lazy"/>
+	</picture>
+</a>
 <a href="https://github.com/SuperZombi/visual_novel">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15&theme=dark"/>
