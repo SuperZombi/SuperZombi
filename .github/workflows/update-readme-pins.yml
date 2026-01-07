@@ -37,6 +37,8 @@ jobs:
           - DBNavigator
           - Web-Console
           - PyEasyDownloader
+          - Notification_JS
+          - SwipeMenu_JS
 
     steps:
       - name: Pin (light) — ${{ matrix.repo }}

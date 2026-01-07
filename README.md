@@ -229,14 +229,14 @@
 
 <a href="https://github.com/SuperZombi/Notification_JS">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Notification_JS&border_radius=15" alt="Notification" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Notification_JS-dark.svg"/>
+		<img src="./stats/pins/Notification_JS-light.svg" alt="Notification" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/SwipeMenu_JS">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=SwipeMenu_JS&border_radius=15" alt="SwipeMenu" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/SwipeMenu_JS-dark.svg"/>
+		<img src="./stats/pins/SwipeMenu_JS-light.svg" alt="SwipeMenu" loading="lazy"/>
 	</picture>
 </a>
 </details>
