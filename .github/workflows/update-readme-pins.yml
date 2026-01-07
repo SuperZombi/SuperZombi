@@ -32,6 +32,11 @@ jobs:
           - monty_hall
           - chess-rpg
           - card-game
+          - MyTube
+          - HdRezkaApi
+          - DBNavigator
+          - Web-Console
+          - PyEasyDownloader
 
     steps:
       - name: Pin (light) — ${{ matrix.repo }}

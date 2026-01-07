@@ -147,38 +147,38 @@
 
 <a href="https://github.com/SuperZombi/wot-modpack">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=wot-modpack&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=wot-modpack&border_radius=15" alt="WoT Modpack" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/wot-modpack-dark.svg"/>
+		<img src="./stats/pins/wot-modpack-light.svg" alt="WoT Modpack" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/dust2">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=dust2&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=dust2&border_radius=15" alt="Dust 2" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/dust2-dark.svg"/>
+		<img src="./stats/pins/dust2-light.svg" alt="Dust 2" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/visual_novel">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=visual_novel&border_radius=15" alt="Visual Novel" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/visual_novel-dark.svg"/>
+		<img src="./stats/pins/visual_novel-light.svg" alt="Visual Novel" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/monty_hall">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=monty_hall&border_radius=15" alt="Monty Hall" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/monty_hall-dark.svg"/>
+		<img src="./stats/pins/monty_hall-light.svg" alt="Monty Hall" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/chess-rpg">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=chess-rpg&border_radius=15" alt="Chess RPG" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/chess-rpg-dark.svg"/>
+		<img src="./stats/pins/chess-rpg-light.svg" alt="Chess RPG" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/card-game">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=card-game&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=card-game&border_radius=15" alt="Card game" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/card-game-dark.svg"/>
+		<img src="./stats/pins/card-game-light.svg" alt="Card game" loading="lazy"/>
 	</picture>
 </a>
 </details>
@@ -191,32 +191,32 @@
 
 <a href="https://github.com/SuperZombi/MyTube">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=MyTube&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=MyTube&border_radius=15" alt="MyTube" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/MyTube-dark.svg"/>
+		<img src="./stats/pins/MyTube-light.svg" alt="MyTube" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/HdRezkaApi">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HdRezkaApi&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HdRezkaApi&border_radius=15" alt="HDrezka Api" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/HdRezkaApi-dark.svg"/>
+		<img src="./stats/pins/HdRezkaApi-light.svg" alt="HDrezka Api" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/DBNavigator">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=DBNavigator&border_radius=15" alt="DBNavigator" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/DBNavigator-dark.svg"/>
+		<img src="./stats/pins/DBNavigator-light.svg" alt="DBNavigator" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Web-Console">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Web-Console&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Web-Console&border_radius=15" alt="Web-Console" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Web-Console-dark.svg"/>
+		<img src="./stats/pins/Web-Console-light.svg" alt="Web-Console" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/PyEasyDownloader">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=PyEasyDownloader&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=PyEasyDownloader&border_radius=15" alt="Easy Downloader" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/PyEasyDownloader-dark.svg"/>
+		<img src="./stats/pins/PyEasyDownloader-light.svg" alt="Easy Downloader" loading="lazy"/>
 	</picture>
 </a>
 </details>
