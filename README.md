@@ -73,68 +73,68 @@
 
 <a href="https://github.com/SuperZombi/MyTube-GUI">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=MyTube-GUI&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=MyTube-GUI&border_radius=15" alt="MyTube" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/MyTube-GUI-dark.svg"/>
+		<img src="./stats/pins/MyTube-GUI-light.svg" alt="MyTube" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/GICutscenesUI">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=GICutscenesUI&border_radius=15" alt="GICutscenes" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/GICutscenesUI-dark.svg"/>
+		<img src="./stats/pins/GICutscenesUI-light.svg" alt="GICutscenes" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/melody-monitor">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=melody-monitor&border_radius=15" alt="Melody Monitor" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/melody-monitor-dark.svg"/>
+		<img src="./stats/pins/melody-monitor-light.svg" alt="Melody Monitor" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Discord-Presence">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Presence&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Presence&border_radius=15" alt="Discord Presence" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Discord-Presence-dark.svg"/>
+		<img src="./stats/pins/Discord-Presence-light.svg" alt="Discord Presence" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Discord-Music-Status">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Music-Status&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Discord-Music-Status&border_radius=15" alt="Discord Music Status" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Discord-Music-Status-dark.svg"/>
+		<img src="./stats/pins/Discord-Music-Status-light.svg" alt="Discord Music Status" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/soundpad-online">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=soundpad-online&border_radius=15" alt="Soundpad" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/soundpad-online-dark.svg"/>
+		<img src="./stats/pins/soundpad-online-light.svg" alt="Soundpad" loading="lazy"/>
 	</picture>
 </a>
-<a href="https://github.com/SuperZombi/Pypi-uploader">
+<a href="https://github.com/SuperZombi/pypi-uploader">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=pypi-uploader&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=pypi-uploader&border_radius=15" alt="Pypi" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/pypi-uploader-dark.svg"/>
+		<img src="./stats/pins/pypi-uploader-light.svg" alt="Pypi" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/fast-server">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=fast-server&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=fast-server&border_radius=15" alt="Fast Server" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/fast-server-dark.svg"/>
+		<img src="./stats/pins/fast-server-light.svg" alt="Fast Server" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/m3u8-downloader">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=m3u8-downloader&border_radius=15" alt="M3U8" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/m3u8-downloader-dark.svg"/>
+		<img src="./stats/pins/m3u8-downloader-light.svg" alt="M3U8" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Telegram_Cloud">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Telegram_Cloud&border_radius=15" alt="Telegram Cloud" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Telegram_Cloud-dark.svg"/>
+		<img src="./stats/pins/Telegram_Cloud-light.svg" alt="Telegram Cloud" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/roomix">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=roomix&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=roomix&border_radius=15" alt="Roomix" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/roomix-dark.svg"/>
+		<img src="./stats/pins/roomix-light.svg" alt="Roomix" loading="lazy"/>
 	</picture>
 </a>
 </details>
