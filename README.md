@@ -186,7 +186,7 @@
 
 <details open>
 	<summary>
-		<h2><img width="28px" align="top" src="https://cdn.iconscout.com/icon/free/png-512/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png"> Python Libraries</h2>
+		<h2><img width="28px" align="top" src="./icons/python.svg"> Python Libraries</h2>
 	</summary>
 
 <a href="https://github.com/SuperZombi/MyTube">
