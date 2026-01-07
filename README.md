@@ -4,8 +4,8 @@
 </picture>
 <br>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="./stats/langs-dark.svg">
-	<img src="./stats/langs-light.svg" alt="Top Langs" loading="lazy">
+	<source media="(prefers-color-scheme: dark)" srcset="./stats/top-langs-dark.svg">
+	<img src="./stats/top-langs-light.svg" alt="Top Langs" loading="lazy">
 </picture>
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
@@ -29,38 +29,38 @@
 
 <a href="https://github.com/SuperZombi/Picture-in-Picture-for-Youtube">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Picture-in-Picture-for-Youtube&border_radius=15" alt="YouTube" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Picture-in-Picture-for-Youtube-dark.svg"/>
+		<img src="./stats/pins/Picture-in-Picture-for-Youtube-light.svg" alt="YouTube" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/HDrezka-Helper">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=HDrezka-Helper&border_radius=15" alt="HDrezka" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/HDrezka-Helper-dark.svg"/>
+		<img src="./stats/pins/HDrezka-Helper-light.svg" alt="HDrezka" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/telegram-downloader">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=telegram-downloader&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=telegram-downloader&border_radius=15" alt="Telegram" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/telegram-downloader-dark.svg"/>
+		<img src="./stats/pins/telegram-downloader-light.svg" alt="Telegram" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/genshin-resin">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=genshin-resin&border_radius=15" alt="Genshin" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/genshin-resin-dark.svg"/>
+		<img src="./stats/pins/genshin-resin-light.svg" alt="Genshin" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Google-Meet-Helper">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Google-Meet-Helper&border_radius=15" alt="Google Meet" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Google-Meet-Helper-dark.svg"/>
+		<img src="./stats/pins/Google-Meet-Helper-light.svg" alt="Google Meet" loading="lazy"/>
 	</picture>
 </a>
 <a href="https://github.com/SuperZombi/Instagram-Helper">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15&theme=dark"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperZombi&repo=Instagram-Helper&border_radius=15" alt="Instagram Helper" loading="lazy"/>
+		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/Instagram-Helper-dark.svg"/>
+		<img src="./stats/pins/Instagram-Helper-light.svg" alt="Instagram Helper" loading="lazy"/>
 	</picture>
 </a>
 </details>
