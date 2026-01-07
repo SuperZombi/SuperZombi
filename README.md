@@ -142,7 +142,7 @@
 
 <details open>
 	<summary>
-		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/5930/5930147.png"> Games</h2>
+		<h2><img width="28px" align="top" src="./icons/game-controller.svg"> Games</h2>
 	</summary>
 
 <a href="https://github.com/SuperZombi/wot-modpack">
