@@ -24,7 +24,7 @@
 
 <details open>
 	<summary>
-		<h2><img width="28px" align="top" src="https://developer.chrome.com/static/docs/extensions/images/home-hero.svg"> Extensions</h2>
+		<h2><img width="28px" align="top" src="./icons/puzzle.svg"> Extensions</h2>
 	</summary>
 
 <a href="https://github.com/SuperZombi/Picture-in-Picture-for-Youtube">

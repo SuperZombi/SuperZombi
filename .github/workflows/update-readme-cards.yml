@@ -1,6 +1,8 @@
 name: Update README cards
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,11 +14,6 @@ jobs:
         card: [stats, top-langs]
 
     steps:
-      # - name: Setup Node.js
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: 22
-
       - name: ${{ matrix.card }} (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -54,11 +51,6 @@ jobs:
           - Instagram-Helper
 
     steps:
-      # - name: Setup Node.js
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: 22
-
       - name: Pin (light) — ${{ matrix.repo }}
         uses: readme-tools/github-readme-stats-action@v1
         with:
