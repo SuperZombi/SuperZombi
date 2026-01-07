@@ -1,45 +1,11 @@
-name: Update README cards
+name: Update README pins
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-stats:
+  generate-pins:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        card: [stats, top-langs]
-
-    steps:
-      - name: ${{ matrix.card }} (light)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: ${{ matrix.card }}
-          options: username=${{ github.repository_owner }}&border_radius=15&show_icons=true
-          path: stats/${{ matrix.card }}-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: ${{ matrix.card }} (dark)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: ${{ matrix.card }}
-          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark&show_icons=true
-          path: stats/${{ matrix.card }}-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: stat-${{ matrix.card }}
-          path: stats
-
-
-  generate-repos:
-    runs-on: ubuntu-latest
-
     strategy:
       matrix:
         repo:
@@ -76,25 +42,13 @@ jobs:
 
   commit-all:
     runs-on: ubuntu-latest
-
+    needs: generate-pins
     permissions:
       contents: write
-
-    needs:
-      - generate-stats
-      - generate-repos
-
     steps:
       - uses: actions/checkout@v6
 
-      - name: Download Stats
-        uses: actions/download-artifact@v4
-        with:
-          path: stats
-          pattern: stat-*
-          merge-multiple: true
-
-      - name: Download Repos
+      - name: Download SVGs
         uses: actions/download-artifact@v4
         with:
           path: stats/pins
@@ -105,6 +59,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats/*
-          git commit -m "Update README cards" || exit 0
+          git add stats/pins/*
+          git commit -m "Update README pins" || exit 0
           git push
