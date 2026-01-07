@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate-pins:
     runs-on: ubuntu-latest
 
     strategy:
@@ -79,16 +79,30 @@ jobs:
           path: stats/pins/${{ matrix.repo }}-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Commit
       - name: Upload SVGs
         uses: actions/upload-artifact@v4
         with:
           name: pins-${{ matrix.repo }}
           path: stats/pins/
-      # - name: Commit SVGs
-      #   run: |
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      #     git add stats/pins/*.svg
-      #     git commit -m "Update README cards" || exit 0
-      #     git push
+
+
+  commit-pins:
+    runs-on: ubuntu-latest
+    needs: generate-pins
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download All Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: stats/pins
+          pattern: pin-*
+          merge-multiple: true
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/pins/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
