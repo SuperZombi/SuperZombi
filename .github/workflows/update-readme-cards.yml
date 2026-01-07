@@ -13,7 +13,6 @@ jobs:
     strategy:
       matrix:
         card: [stats, top-langs]
-        theme: [light, dark]
 
     steps:
       - name: Setup Node.js
@@ -21,18 +20,26 @@ jobs:
         with:
           node-version: 22
 
-      - name: Generate card
+      - name: ${{ matrix.card }} (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: ${{ matrix.card }}
-          options: username=${{ github.repository_owner }}&border_radius=15${{ matrix.theme == 'dark' && '&theme=dark' || '' }}${{ matrix.card == 'stats' && '&show_icons=true' || '' }}
+          options: username=${{ github.repository_owner }}&border_radius=15${{ matrix.card == 'stats' && '&show_icons=true' || '' }}
+          path: stats/${{ matrix.card }}-${{ matrix.theme }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ${{ matrix.card }} (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: ${{ matrix.card }}
+          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark${{ matrix.card == 'stats' && '&show_icons=true' || '' }}
           path: stats/${{ matrix.card }}-${{ matrix.theme }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: pin-${{ matrix.card }}-${{ matrix.theme }}
+          name: stat-${{ matrix.card }}
           path: stats
 
 
