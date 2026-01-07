@@ -81,7 +81,7 @@ jobs:
 
       # Commit
       - name: Upload SVGs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: pins
           path: stats/pins/
