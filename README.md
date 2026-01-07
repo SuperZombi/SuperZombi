@@ -1,11 +1,11 @@
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SuperZombi&show_icons=true&border_radius=15&theme=dark"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=SuperZombi&show_icons=true&border_radius=15" alt="GitHub stats" loading="lazy"/>
+	<source media="(prefers-color-scheme: dark)" srcset="./stats/stats-dark.svg">
+	<img src="./stats/stats-light.svg" alt="GitHub stats" loading="lazy">
 </picture>
 <br>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZombi&border_radius=15&theme=dark"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZombi&border_radius=15" alt="Top Langs" loading="lazy"/>
+	<source media="(prefers-color-scheme: dark)" srcset="./stats/langs-dark.svg">
+	<img src="./stats/langs-light.svg" alt="Top Langs" loading="lazy">
 </picture>
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)

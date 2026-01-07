@@ -1,7 +1,7 @@
 name: Update README cards
 
 on:
-  workflow_dispatch:     # ручной запуск
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -10,9 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      # ---------- GitHub stats ----------
+      # GitHub stats
       - name: Stats (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -29,7 +29,7 @@ jobs:
           path: stats/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ---------- Top languages ----------
+      # Top languages
       - name: Langs (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -46,6 +46,7 @@ jobs:
           path: stats/langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Commit
       - name: Commit SVGs
         run: |
           git config user.name "github-actions[bot]"
