@@ -3,9 +3,6 @@ name: Update README cards
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
@@ -24,16 +21,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: ${{ matrix.card }}
-          options: username=${{ github.repository_owner }}&border_radius=15${{ matrix.card == 'stats' && '&show_icons=true' || '' }}
-          path: stats/${{ matrix.card }}-${{ matrix.theme }}.svg
+          options: username=${{ github.repository_owner }}&border_radius=15&show_icons=true
+          path: stats/${{ matrix.card }}-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: ${{ matrix.card }} (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: ${{ matrix.card }}
-          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark${{ matrix.card == 'stats' && '&show_icons=true' || '' }}
-          path: stats/${{ matrix.card }}-${{ matrix.theme }}.svg
+          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark&show_icons=true
+          path: stats/${{ matrix.card }}-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Artifacts
@@ -43,68 +40,79 @@ jobs:
           path: stats
 
 
-  # generate-repos:
-  #   runs-on: ubuntu-latest
+  generate-repos:
+    runs-on: ubuntu-latest
 
-  #   strategy:
-  #     matrix:
-  #       repo:
-  #         - Picture-in-Picture-for-Youtube
-  #         - HDrezka-Helper
-  #         - telegram-downloader
-  #         - genshin-resin
-  #         - Google-Meet-Helper
-  #         - Instagram-Helper
+    strategy:
+      matrix:
+        repo:
+          - Picture-in-Picture-for-Youtube
+          - HDrezka-Helper
+          - telegram-downloader
+          - genshin-resin
+          - Google-Meet-Helper
+          - Instagram-Helper
 
-  #   steps:
-  #     - name: Setup Node.js
-  #       uses: actions/setup-node@v4
-  #       with:
-  #         node-version: 22
+    steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
 
-      
+      - name: Pin (light) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15
+          path: stats/pins/${{ matrix.repo }}-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  #     # ---------- Pin cards ----------
-  #     - name: Pin (light) — ${{ matrix.repo }}
-  #       uses: readme-tools/github-readme-stats-action@v1
-  #       with:
-  #         card: pin
-  #         options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15
-  #         path: stats/pins/${{ matrix.repo }}-light.svg
-  #         token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Pin (dark) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15&theme=dark
+          path: stats/pins/${{ matrix.repo }}-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  #     - name: Pin (dark) — ${{ matrix.repo }}
-  #       uses: readme-tools/github-readme-stats-action@v1
-  #       with:
-  #         card: pin
-  #         options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15&theme=dark
-  #         path: stats/pins/${{ matrix.repo }}-dark.svg
-  #         token: ${{ secrets.GITHUB_TOKEN }}
-
-  #     - name: Upload Artifact
-  #       uses: actions/upload-artifact@v4
-  #       with:
-  #         name: pin-${{ matrix.repo }}
-  #         path: stats/pins/
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-${{ matrix.repo }}
+          path: stats/pins/
 
 
-  # commit-pins:
-  #   runs-on: ubuntu-latest
-  #   needs: generate-pins
-  #   steps:
-  #     - uses: actions/checkout@v6
+  commit-all:
+    runs-on: ubuntu-latest
 
-  #     - name: Download All Artifacts
-  #       uses: actions/download-artifact@v4
-  #       with:
-  #         path: stats/pins
-  #         pattern: pin-*
-  #         merge-multiple: true
+    permissions:
+      contents: write
 
-  #     - name: Commit SVGs
-  #       run: |
-  #         git config user.name "github-actions[bot]"
-  #         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-  #         git add stats/pins/*.svg
-  #         git commit -m "Update README cards" || exit 0
-  #         git push
+    needs:
+      - generate-stats
+      - generate-repos
+    
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download Stats
+        uses: actions/download-artifact@v4
+        with:
+          path: stats
+          pattern: stat-*
+          merge-multiple: true
+
+      - name: Download Repos
+        uses: actions/download-artifact@v4
+        with:
+          path: stats/pins
+          pattern: pin-*
+          merge-multiple: true
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
