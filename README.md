@@ -224,7 +224,7 @@
 
 <details open>
 	<summary>
-		<h2><img width="26px" align="top" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript Libraries</h2>
+		<h2><img width="26px" align="top" src="./icons/javascript.svg"> JavaScript Libraries</h2>
 	</summary>
 
 <a href="https://github.com/SuperZombi/Notification_JS">
