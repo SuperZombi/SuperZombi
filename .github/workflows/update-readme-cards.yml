@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
-    matrix:
-      card: [stats, top-langs]
-      theme: [light, dark]
+      matrix:
+        card: [stats, top-langs]
+        theme: [light, dark]
 
     steps:
       - name: Setup Node.js
