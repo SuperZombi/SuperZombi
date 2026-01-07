@@ -9,6 +9,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        repo:
+          - Picture-in-Picture-for-Youtube
+          - HDrezka-Helper
+          - telegram-downloader
+          - genshin-resin
+          - Google-Meet-Helper
+          - Instagram-Helper
+
     steps:
       - uses: actions/checkout@v6
 
@@ -44,6 +55,23 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&border_radius=15&theme=dark
           path: stats/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------- Pin cards ----------
+      - name: Pin (light) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15
+          path: stats/pins/${{ matrix.repo }}-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin (dark) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15&theme=dark
+          path: stats/pins/${{ matrix.repo }}-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Commit
