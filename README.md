@@ -68,7 +68,7 @@
 
 <details open>
 	<summary>
-		<h2><img width="28px" align="top" src="https://cdn-icons-png.flaticon.com/512/814/814120.png"> Applications</h2>
+		<h2><img width="28px" align="top" src="./icons/application.svg"> Applications</h2>
 	</summary>
 
 <a href="https://github.com/SuperZombi/MyTube-GUI">
