@@ -1,0 +1,55 @@
+name: Update README cards
+
+on:
+  workflow_dispatch:     # ручной запуск
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ---------- GitHub stats ----------
+      - name: Stats (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15
+          path: stats/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15&theme=dark
+          path: stats/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------- Top languages ----------
+      - name: Langs (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&border_radius=15
+          path: stats/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Langs (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark
+          path: stats/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
