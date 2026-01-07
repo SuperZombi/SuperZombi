@@ -82,7 +82,7 @@ jobs:
       - name: Upload SVGs
         uses: actions/upload-artifact@v4
         with:
-          name: pins-${{ matrix.repo }}
+          name: pin-${{ matrix.repo }}
           path: stats/pins/
 
 
