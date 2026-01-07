@@ -21,11 +21,17 @@ jobs:
           - Discord-Presence
           - Discord-Music-Status
           - soundpad-online
-          - Pypi-uploader
+          - pypi-uploader
           - fast-server
           - m3u8-downloader
           - Telegram_Cloud
           - roomix
+          - wot-modpack
+          - dust2
+          - visual_novel
+          - monty_hall
+          - chess-rpg
+          - card-game
 
     steps:
       - name: Pin (light) — ${{ matrix.repo }}
