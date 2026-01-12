@@ -13,7 +13,7 @@ jobs:
 
       # GitHub stats
       - name: Stats (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15
@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Stats (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15&theme=dark
@@ -30,7 +30,7 @@ jobs:
 
       # Top languages
       - name: Langs (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&border_radius=15
@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Langs (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&border_radius=15&theme=dark
