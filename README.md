@@ -12,11 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=40&duration=2500&pause=500&vCenter=true&width=170&height=40&lines=Code;Coffee;Repeat)](https://git.io/typing-svg)
 
-### 📋Resume
-
-💼 [New resume](https://superzombi.github.io/resume/v2/)
-
-✨ [Old resume](https://superzombi.github.io/resume/?true)
+### 📋 [CV](https://superzombi.github.io/resume/v2/)
 
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
