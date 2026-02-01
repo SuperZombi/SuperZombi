@@ -7,11 +7,6 @@
 	<source media="(prefers-color-scheme: dark)" srcset="./stats/top-langs-dark.svg">
 	<img src="./stats/top-langs-light.svg" alt="Top Langs" loading="lazy">
 </picture>
-<br>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=darkmode">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="500">
-</picture>
 
 [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
 
@@ -22,6 +17,11 @@
 ### 📋 [CV](https://superzombi.github.io/resume/v2/)
 
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=darkmode">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="500">
+</picture>
 
 <hr>
 
