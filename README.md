@@ -14,14 +14,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=40&duration=2500&pause=500&vCenter=true&width=170&height=40&lines=Code;Coffee;Repeat)](https://git.io/typing-svg)
 
-### 📋 [CV](https://superzombi.github.io/resume/v2/)
-
-### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=darkmode">
 	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="500">
 </picture>
+
+### 📋 [CV](https://superzombi.github.io/resume/v2/)
+
+### ☕ [Buy me coffee](https://donatello.to/super_zombi)
+
 
 <hr>
 
