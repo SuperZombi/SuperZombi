@@ -9,9 +9,11 @@
 </picture>
 <br>
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=darkmode">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="600">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=darkmode">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Creact%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="600">
 </picture>
+
+<img src="https://count.owo.cab/@SuperZombi?name=SuperZombi&theme=morden-num&padding=5&pixelated=0" alt="Counter">
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
 
