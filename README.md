@@ -10,7 +10,7 @@
 <br>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=carbon">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" height="100">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true" width="200">
 </picture>
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
