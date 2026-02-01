@@ -1,6 +1,6 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/profile?username=SuperZombi&data=followers,repositories,stars,commits&theme=darkmode">
-	<img src="https://github-widgetbox.vercel.app/api/profile?username=SuperZombi&data=followers,repositories,stars,commits" alt="Profile summary" loading="lazy">
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=SuperZombi&data=followers,repositories,stars,commits">
 </picture>
 <br>
 <picture>
