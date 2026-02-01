@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=40&duration=2500&pause=500&vCenter=true&width=170&height=40&lines=Code;Coffee;Repeat)](https://git.io/typing-svg)
 
-[![Profile views](https://count.owo.cab/@SuperZombi?name=SuperZombi&theme=sketch-1&padding=5&scale=0.5&pixelated=0&darkmode=1)]
+[![Profile views](https://count.owo.cab/@SuperZombi?name=SuperZombi&theme=sketch-1&padding=5&scale=0.5&pixelated=0&darkmode=0)](https://count.owo.cab/)
 
 ### 📋 [CV](https://superzombi.github.io/resume/v2/)
 
