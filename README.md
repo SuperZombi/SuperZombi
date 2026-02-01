@@ -1,4 +1,9 @@
 <picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/profile?username=SuperZombi&data=followers,repositories,stars,commits&theme=darkmode">
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=SuperZombi&data=followers,repositories,stars,commits" alt="Profile summary" loading="lazy">
+</picture>
+<br>
+<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="./stats/stats-dark.svg">
 	<img src="./stats/stats-light.svg" alt="GitHub stats" loading="lazy">
 </picture>
