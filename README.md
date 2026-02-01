@@ -1,6 +1,6 @@
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Creact%2Cyaml%2Cmysql%2Cmarkdown&theme=carbon&includeNames=true">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Creact%2Cyaml%2Cmysql%2Cmarkdown&includeNames=true">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Creact%2Cbootstrap%2Ctailwind%2Cgit&theme=carbon&includeNames=true">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Creact%2Cbootstrap%2Ctailwind%2Cgit&includeNames=true">
 </picture>
 <br>
 <picture>
