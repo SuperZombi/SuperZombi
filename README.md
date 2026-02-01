@@ -1,6 +1,6 @@
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cts%2Cjava%2Cphp%2Cpython%2Chtml%2Ccss%2Cc%2Ccpp%2Ccsharp%2Cswift%2Crust%2Cruby%2Ckotlin%2Cerlang%2Cdart%2Cgo%2Cscala%2Celm%2Cbash%2Cr%2Cxml%2Cjson%2Cyaml%2Cpostgresql%2Cmysql%2Chaskell%2Cpowershell%2Clua%2Cvisualbasic%2Cx86%2Carm%2Cgroovy%2Cperl%2Csolidity%2Cfortran%2Csass%2Cgraphql%2Cclojure%2Cclojurescript%2Cmarkdown&theme=darkmode">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cts%2Cjava%2Cphp%2Cpython%2Chtml%2Ccss%2Cc%2Ccpp%2Ccsharp%2Cswift%2Crust%2Cruby%2Ckotlin%2Cerlang%2Cdart%2Cgo%2Cscala%2Celm%2Cbash%2Cr%2Cxml%2Cjson%2Cyaml%2Cpostgresql%2Cmysql%2Chaskell%2Cpowershell%2Clua%2Cvisualbasic%2Cx86%2Carm%2Cgroovy%2Cperl%2Csolidity%2Cfortran%2Csass%2Cgraphql%2Cclojure%2Cclojurescript%2Cmarkdown">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Cjson%2Cyaml%2Cmysql%2Cmarkdown&theme=carbon&includeNames=true">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Cpython%2Chtml%2Ccss%2Cjson%2Cyaml%2Cmysql%2Cmarkdown&includeNames=true">
 </picture>
 <br>
 <picture>
