@@ -1,9 +1,4 @@
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=carbon">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true">
-</picture>
-<br>
-<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="./stats/stats-dark.svg">
 	<img src="./stats/stats-light.svg" alt="GitHub stats" loading="lazy">
 </picture>
@@ -11,6 +6,11 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="./stats/top-langs-dark.svg">
 	<img src="./stats/top-langs-light.svg" alt="Top Langs" loading="lazy">
+</picture>
+<br>
+<picture height="100">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true&theme=carbon">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js%2Creact%2Cpython%2Chtml%2Ccss%2Cbootstrap%2Ctailwind&includeNames=true">
 </picture>
 
 ### [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
