@@ -216,12 +216,6 @@
 		<img src="./stats/pins/Web-Console-light.svg" alt="Web-Console" loading="lazy"/>
 	</picture>
 </a>
-<a href="https://github.com/SuperZombi/PyEasyDownloader">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="./stats/pins/PyEasyDownloader-dark.svg"/>
-		<img src="./stats/pins/PyEasyDownloader-light.svg" alt="Easy Downloader" loading="lazy"/>
-	</picture>
-</a>
 </details>
 
 

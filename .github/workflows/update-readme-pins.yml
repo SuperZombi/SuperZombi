@@ -36,7 +36,6 @@ jobs:
           - HdRezkaApi
           - DBNavigator
           - Web-Console
-          - PyEasyDownloader
           - Notification_JS
           - SwipeMenu_JS
 
