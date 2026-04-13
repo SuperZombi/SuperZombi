@@ -1,0 +1,33 @@
+name: Clear history
+
+on:
+  workflow_dispatch:
+
+jobs:
+  optimize-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create clean branch
+        run: git checkout --orphan clean
+
+      - name: Commit all files
+        run: |
+          git add .
+          git commit -m "Initial clean commit"
+
+      - name: Rename branch to main
+        run: git branch -M main
+
+      - name: Force push to remote
+        run: git push -f origin main

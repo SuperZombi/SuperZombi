@@ -1,0 +1,84 @@
+name: Update README pins
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-pins:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - Picture-in-Picture-for-Youtube
+          - HDrezka-Helper
+          - telegram-downloader
+          - genshin-resin
+          - Google-Meet-Helper
+          - Instagram-Helper
+          - MyTube-GUI
+          - GICutscenesUI
+          - melody-monitor
+          - Discord-Presence
+          - Discord-Music-Status
+          - soundpad-online
+          - pypi-uploader
+          - fast-server
+          - m3u8-downloader
+          - wot-modpack
+          - dust2
+          - visual_novel
+          - monty_hall
+          - chess-rpg
+          - MyTube
+          - HdRezkaApi
+          - DBNavigator
+          - Web-Console
+          - Notification_JS
+          - SwipeMenu_JS
+
+    steps:
+      - name: Pin (light) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15
+          path: stats/pins/${{ matrix.repo }}-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin (dark) — ${{ matrix.repo }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&border_radius=15&theme=dark
+          path: stats/pins/${{ matrix.repo }}-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-${{ matrix.repo }}
+          path: stats/pins/
+
+
+  commit-all:
+    runs-on: ubuntu-latest
+    needs: generate-pins
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download SVGs
+        uses: actions/download-artifact@v4
+        with:
+          path: stats/pins
+          pattern: pin-*
+          merge-multiple: true
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/pins/*
+          git commit -m "Update README pins" || exit 0
+          git push
