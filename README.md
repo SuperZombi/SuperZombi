@@ -21,6 +21,8 @@
 
 ### 📋 [CV](https://superzombi.github.io/resume/v2/)
 
+### 💻 [Website](https://superzombi.github.io/me/)
+
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
 <hr>
