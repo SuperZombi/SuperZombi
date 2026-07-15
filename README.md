@@ -25,6 +25,31 @@
 
 ### ☕ [Buy me coffee](https://donatello.to/super_zombi)
 
+```mermaid
+mindmap
+  root((SuperZombi))
+    ⚛️ Frontend
+      HTML
+      CSS
+      JavaScript
+      React
+      Tailwind
+      Bootstrap
+    🐍 Backend
+      Python
+      Flask
+      FastAPI
+      SocketIO
+      SQL
+    🛠️ Tools
+      Git
+    🧠 Superpowers
+      Googling
+      Stack Overflow
+      Ctrl+C
+      Ctrl+V
+```
+
 <hr>
 
 <details open>
