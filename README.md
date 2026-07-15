@@ -28,22 +28,22 @@
 ```mermaid
 mindmap
   root((SuperZombi))
-    ⚛️ Frontend
+    )⚛️ Frontend(
       HTML
       CSS
       JavaScript
       React
       Tailwind
       Bootstrap
-    🐍 Backend
+    )🐍 Backend(
       Python
       Flask
       FastAPI
       SocketIO
       SQL
-    🛠️ Tools
+    )🛠️ Tools(
       Git
-    🧠 Superpowers
+    )💪 Superpowers(
       Googling
       Stack Overflow
       Ctrl+C
