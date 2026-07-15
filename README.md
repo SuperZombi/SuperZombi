@@ -15,7 +15,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/ukraine/SuperZombi.svg)](https://user-badge.committers.top/ukraine/SuperZombi)
 
-[![Profile views](https://count.owo.cab/@SuperZombi?name=SuperZombi&theme=sketch-1&padding=5&scale=0.5&pixelated=0&darkmode=0)](https://count.owo.cab/)
+[![Profile views](https://count.getloli.com/@SuperZombi?theme=sketch-1&padding=5&scale=0.5&pixelated=0&darkmode=0)](https://count.getloli.com/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=40&duration=2500&pause=500&vCenter=true&width=170&height=40&lines=Code;Coffee;Repeat)](https://git.io/typing-svg)
 
