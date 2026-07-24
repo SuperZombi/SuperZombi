@@ -1,0 +1,37 @@
+name: Update Skills
+
+on:
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download GitHub WidgetBox
+        env:
+          LANGUAGES: js,python,react,html,css,bootstrap,tailwind
+        run: |
+          mkdir -p stats
+
+          BASE_URL="https://github-widgetbox.vercel.app/api/skills?languages=${LANGUAGES}&includeNames=true"
+
+          curl -L "${BASE_URL}" -o stats/skills-light.svg
+          curl -L "${BASE_URL}&theme=darkmode" -o stats/skills-dark.svg
+
+      - name: Download Typing SVG
+        env:
+          LINES: "Code;Coffee;Repeat"
+        run: |
+          mkdir -p stats
+          BASE_URL="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=40&duration=2500&pause=500&vCenter=true&width=170&height=40&lines=${LINES}"
+          curl -L "${BASE_URL}" -o stats/typing.svg
+
+      - name: Commit updated widgets
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Update skills widgets"
+          file_pattern: stats/*.svg

@@ -1,0 +1,64 @@
+name: Update Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 */2 * *"
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # GitHub stats
+      - name: Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15
+          path: stats/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&border_radius=15&theme=dark
+          path: stats/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Top languages
+      - name: Langs (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&border_radius=15
+          path: stats/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Langs (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&border_radius=15&theme=dark
+          path: stats/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Contributions
+      - name: Contribution Stats
+        env:
+          USER: ${{ github.repository_owner }}
+          TITLE: "Open Source Contributions"
+        run: |
+          mkdir -p stats
+          TITLE="${TITLE// /%20}"
+          BASE_URL="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=${USER}&type=repos&limit=6&title=${TITLE}"
+          curl -L "${BASE_URL}" -o stats/contributions.svg
+
+      # Commit
+      - name: Commit SVGs
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Update Readme Stats"
+          file_pattern: stats/*.svg
