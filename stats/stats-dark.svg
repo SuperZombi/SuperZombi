@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Super Zombi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 695, Total Commits  (last year) : 1354, Total PRs: 154, Total Issues: 66, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 695, Total Commits  (last year) : 1373, Total PRs: 158, Total Issues: 66, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.989034722435065;
+        stroke-dashoffset: 40.537880352996076;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >154</text>
+      >158</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
